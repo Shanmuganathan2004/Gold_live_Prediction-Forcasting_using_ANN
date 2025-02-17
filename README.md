@@ -4,3 +4,5 @@ An ANN model to predict the live gold prices liv and forcasting it for the next 
 First Importing the important Libraries
 
 second you have to use the ml packages
+
+if you have any doubt feel free reach out to me
